@@ -1,3 +1,6 @@
+<head>
+<p/>
+</head>
 <h1 align=center>LoMaTi Informatik</h1>
 
 <h3>Hi! We're LoMaTi Informatik.</h3>
