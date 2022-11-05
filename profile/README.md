@@ -3,7 +3,7 @@
 </head>
 <h1 align=center>LoMaTi Informatik</h1>
 
-<h3>Hi! We're LoMaTi Informatik.</h3>
+<h4>Hi! We're LoMaTi Informatik.</h4>
 
 <h2>Our current projects:</h2>
 <ul>
