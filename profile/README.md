@@ -2,8 +2,8 @@
 <p/>
 </head>
 <h1 align=center>LoMaTi Informatik</h1>
-<p/>
-<h3>Hi! We're LoMaTi Informatik.</h3>
+
+<h3 style="margin-top: 100px">Hi! We're LoMaTi Informatik.</h3>
 
 <h2>Our current projects:</h2>
 <ul>
